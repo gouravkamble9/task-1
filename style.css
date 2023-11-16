@@ -252,6 +252,10 @@ footer{
     gap: 0;
 }
 
+.link_lists ul li{
+    font-size: 18px;
+}
+
 .link_lists {
     display: flex;
     flex-direction: column;
