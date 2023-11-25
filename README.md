@@ -12,3 +12,7 @@ This project serves as a basic example of a landing page structure incorporating
 - **CSS Styling**: Styled using CSS to enhance the visual appearance and responsiveness.
 - **JavaScript Functionality**: Implements basic interactive elements using JavaScript for user engagement.
 - **Responsive Design**: Ensures adaptability across different devices and screen sizes.
+
+  ## Screenshots
+  ![image](https://github.com/gouravkamble9/task-1/assets/61933116/eb11895c-3c18-4c68-aeea-797df746bee2)
+
