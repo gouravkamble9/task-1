@@ -15,4 +15,9 @@ This project serves as a basic example of a landing page structure incorporating
 
   ## Screenshots
   ![image](https://github.com/gouravkamble9/task-1/assets/61933116/eb11895c-3c18-4c68-aeea-797df746bee2)
+  
+
+
+
+https://github.com/gouravkamble9/task-1/assets/61933116/b97d5007-1fe8-4f7b-886e-577ca9f29b37
 
