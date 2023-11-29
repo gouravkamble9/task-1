@@ -13,6 +13,8 @@ This project serves as a basic example of a landing page structure incorporating
 - **JavaScript Functionality**: Implements basic interactive elements using JavaScript for user engagement.
 - **Responsive Design**: Ensures adaptability across different devices and screen sizes.
 
+## Demo
+  https://gouravkamble9.github.io/task-1/
   ## Screenshots
   ![image](https://github.com/gouravkamble9/task-1/assets/61933116/eb11895c-3c18-4c68-aeea-797df746bee2)
   
